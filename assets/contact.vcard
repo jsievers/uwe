@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Sievers;Jan;;;
+FN:Jan Sievers
+EMAIL;type=pref:jan@sievers.contact
+TEL;type=CELL:+491788634449
+URL:https://sievers.contact
+PHOTO;MEDIATYPE=image/webp:https://sievers.contact/assets/images/profile.webp
+END:VCARD
