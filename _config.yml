@@ -1,6 +1,6 @@
 # main text of home
-title: Jan Sievers
-bio: Software engineer. Photographer. Drummer. Volleyball player.
+title: Uwe Sievers
+bio: Pysicist. Chess player.
 
 # twitter summary info
 #description: A blog about technology and stuff related
@@ -20,7 +20,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://jsievers.github.io
+url: https://jsievers.github.io/uwe
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: sieversjan
-instagram: latecolour
-linkedin: jan-sievers-2078465
-github: jsievers
-email: jan@sievers.contact
+#twitter: sieversjan
+#instagram: latecolour
+#linkedin: jan-sievers-2078465
+#github: jsievers
+email: uwe@sievers.contact
 
 authors:
 #  johndoe:
